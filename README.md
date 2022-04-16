@@ -1,4 +1,4 @@
-# BUHHealthPunch
+# BHUHealthPunch
 ### 渤海大学企业微信健康打卡
 Auto.js自动化脚本  
 用于实现渤海大学企业微信每日健康打卡  
